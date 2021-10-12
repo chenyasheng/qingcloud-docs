@@ -1,6 +1,6 @@
 ---
 title: "产品动态"
-date: 2021-10-08T10:08:56+09:00
+date: 2021-10-11T10:08:56+09:00
 collapsible: false
 
 product:
@@ -11,7 +11,7 @@ product:
       tags:
       - 产品上架
       - 性能提升
-      zone: 北京3区-C、北京3区-D、上海1区-A
+      zone: 北京3区-C、北京3区-D、上海1区-A、广东2区-A
 
     - time: 2021-9-26 11:30:30
       title: 云硬盘部分区域上架增强型SSD云盘
@@ -19,7 +19,6 @@ product:
       url: /compute/vm/manual/connect_instance
       tags:
       - 产品上架
-      - 新功能
       - 性能提升
       zone: 上海1区、广东2区-B、北京三区-C、北京3区-D
 
